@@ -5,7 +5,7 @@ Betiğin içinde, scikit-learn kütüphanesini kullanarak Gaussian Naive Bayes, 
 
 Her bir algoritma, eğitim kümesi üzerinde eğitilir ve test kümesi üzerinde değerlendirilerek doğruluk skoru hesaplanır. Ayrıca, her bir algoritmanın performansını görselleştirmek için hata matrisleri oluşturulur. Ek olarak, farklı algoritmaların doğruluk oranlarını karşılaştırmak için bir çubuk grafik oluşturulur.
 
-Kod, Python dilinde yazılmış olup Spyder IDE'si kullanılarak geliştirilmiştir. Popüler sınıflandırma algoritmalarının uygulanması ve belirli veri setindeki performansları hakkında bilgi sağlar.MATLAB dosyasının konumunu kendi bilgisayarınıza göre güncelleyin.💻🔏
+Kod, Python dilinde yazılmış olup Spyder IDE'si kullanılarak geliştirilmiştir. Popüler sınıflandırma algoritmalarının uygulanması ve belirli veri setindeki performansları hakkında bilgi sağlar.MATLAB dosyasının konumunu kendi bilgisayarınıza göre güncelleyin .💻🔏
 
 ![Figure 2023-06-24 181947 (1)](https://github.com/osmandemir2533/PerformanceComparisonofClassificationAlgorithms/assets/111290271/8403e893-8edf-4d9f-a6ae-9098df4ea3ae)
 
